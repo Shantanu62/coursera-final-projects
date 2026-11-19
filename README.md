@@ -24,3 +24,6 @@ Enter the principal amount, annual interest rate (in percent), and time period (
 ## Example
 
 For a principal of 1000, an annual interest rate of 5%, and a time period of 2 years, the simple interest is 100.
+
+## Bug Fix
+Updated project documentation.
