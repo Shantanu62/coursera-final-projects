@@ -1,0 +1,14 @@
+Git and GitHub Final Project — Submission Guide
+
+PART 1 (requires actual public GitHub URLs)
+1. Upload README.md, LICENSE, CODE_OF_CONDUCT.md, CONTRIBUTING.md, simple-interest.sh to the appropriate GitHub repo (prefer the fork the course asks you to work in).
+2. Open each file on GitHub and copy the address from the browser address bar into Tasks 1–5.
+3. Check the course's required filename for Code of Conduct; the present file uses the standard GitHub name CODE_OF_CONDUCT.md.
+
+PART 2 (requires real terminal outputs, not mock data)
+6. Submit the real curl command and response you saved as forked-repo. The response must verify YOUR fork of ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.
+7. Submit actual git checkout main and git merge bug-fix-typo output from your terminal or merge_branches file. It must show 1 file changed.
+8. Submit the real curl command and pull-request verification response from bug-fix-revert.
+9. Submit the genuine git branch output from github-branches.
+
+Do not submit fabricated terminal evidence. If outputs were not saved, rerun the needed GitHub/Git commands in the lab environment and capture their results.
