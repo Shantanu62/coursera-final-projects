@@ -24,3 +24,8 @@ Enter the principal amount, annual interest rate (in percent), and time period (
 ## Example
 
 For a principal of 1000, an annual interest rate of 5%, and a time period of 2 years, the simple interest is 100.
+
+
+## Additional portfolio case studies
+
+- [Java Movie Recommendation System — Duke University course-based project](projects/java-movie-recommender/README.md) — verified course-hosted demo, recommender concepts, academic-integrity scope, and interview walkthrough.
